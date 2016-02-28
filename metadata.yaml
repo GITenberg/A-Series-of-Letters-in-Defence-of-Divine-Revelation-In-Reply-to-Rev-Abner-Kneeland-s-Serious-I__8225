@@ -1,0 +1,45 @@
+_repo: A-Series-of-Letters-in-Defence-of-Divine-Revelation-In-Reply-to-Rev-Abner-Kneeland-s-Serious-I__8225
+contributor:
+  contributors:
+  - agent_name: Walton, Joseph
+    birthdate: 1742
+    deathdate: 1822
+    gutenberg_agent_id: '40442'
+    url: http://www.gutenberg.org/2009/agents/40442
+  - agent_name: Kneeland, Abner
+    birthdate: 1774
+    deathdate: 1844
+    gutenberg_agent_id: '725'
+    url: http://www.gutenberg.org/2009/agents/725
+  - agent_name: Buckminster, Joseph
+    birthdate: 1751
+    deathdate: 1812
+    gutenberg_agent_id: '37691'
+    url: http://www.gutenberg.org/2009/agents/37691
+creator:
+  author:
+    agent_name: Ballou, Hosea
+    birthdate: 1771
+    deathdate: 1852
+    gutenberg_agent_id: '2707'
+    url: http://www.gutenberg.org/2009/agents/2707
+    wikipedia: http://en.wikipedia.org/wiki/Hosea_Ballou
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revelation'
+- !lcc 'BS'
+- !lcsh 'Universalism -- Doctrines'
+title: "A Series of Letters, in Defence of Divine Revelation\r\nIn Reply to Rev. Abner\
+  \ Kneeland's Serious Inquiry into the Authenticity of the Same. To Which is Added,\
+  \ a Religious Correspondence, Between the Rev. Hosea Ballou, and the Rev. Dr. Joseph\
+  \ Buckminster and Rev. Joseph Walton, Pastors of Congregational Churches in Portsmouth,\
+  \ N. H."
+url: http://www.gutenberg.org/ebooks/8225
